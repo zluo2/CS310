@@ -1,0 +1,12 @@
+C:\Users\ZHIWEN\Desktop>java -jar 310pa3.jar < data01.txt
+Read in 10 points
+Query: Found 1 point
+0.513 0.612 0.466
+
+Query: Found 2 points
+0.414 0.785 0.883
+0.513 0.612 0.466
+
+Query: Found 0 point
+
+Query: bye

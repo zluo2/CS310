@@ -1,0 +1,27 @@
+20
+        . . . . . . . . . . . . . @ . .
+    + + . . . . . . . . . . . . . . . .
+    +   . . . . . . . . . . . . . . . .
+    +             +                   +
+. . . . . . .     + + +               +
+. . . . . . .         +               +
+. . . . . . .         +               +
+. . * . . . .         +               +
+. . . . . . .         +               +
+. . . . . . . + + + + +               +
+. . . . . . .                         +
+. . . . . . . + + + + + + + + + + + + +
+        . . .               +          
+    + + . . . . . . . . . . + . . . . .
+    +   . . . . . . . . . . . . . . . #
+    +             +                   +
+. . . . . . E     + + +               +
+. . . . . . .         +               +
+. . . . . . .         +               +
+. . . . . . .         +               + 
+
+This dungoen is really huge and complex. 
+There are two loop corridors.
+At the beginning of the game, the monsters is far away from rogue. 
+So, if the rogue's strategy is not smart, it is easy for monster to kill rogue.
+

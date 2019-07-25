@@ -1,0 +1,125 @@
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> e
+value: 000000.100000
+.1
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> a
+value: -.1
+0
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> a
+value: -10.00001
+-10.00001
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> a
+value: -10
+-20.00001
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> s
+value: -000000009.9000000
+-10.10001
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> r
+10.10001
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> m
+value: 00000000000000009
+90.90009
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> m
+value: 0.2
+18.180018
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> c
+0
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> a
+value: 3.314.00
+badly formed number: 3.314.00
+0
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> a
+value: --0.03
+badly formed number: --0.03
+0
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> c
+0
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> a
+value: +0.1
+badly formed number: +0.1
+0
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> a
+value: 0.0001
+.0001
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> s
+value: 0.0001000000000000000000000000
+0
+
+enter a value: e     add: a
+subtract: s          multiply: m
+reverse sign: r      clear: c
+quit: q
+-> q
